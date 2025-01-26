@@ -24,5 +24,10 @@ including customer demographics such as age, jobs and macroeconomic indicators s
 - 1 model performance metrics on test data.
 - Visualizations of important findings.
 
+## Project Report
+Report consisted of the explanation of my decisions on data cleaning, EDA graphs and the model performance on test data (project outcome). 
+
 ## Data source
 https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset
+
+
