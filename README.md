@@ -11,10 +11,11 @@ including customer demographics such as age, jobs and macroeconomic indicators s
 ## Folder Structure
 - `data/`: Contains the telemarketing campaign dataset.
 - `scripts/`: Python scripts for preprocessing, modelling, visualization and helper functions.
-- `main.py`: Main script to execute the workflow.
+- `scripts/main`: Main script to execute the workflow.
 
 ## How to Run
-1. Run the main script with VS code: `python telemarketing.py`
+1. Change the file path in main, preprocessing and visualization scripts accordingly.
+2. Run the main script with VS code: `python main.py`
 
 ## Results
 - Data Cleaning and Data Imputation.
