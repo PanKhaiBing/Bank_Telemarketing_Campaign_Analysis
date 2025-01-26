@@ -1,7 +1,12 @@
-# Telemarketing Data Analysis
+# Bank Telemarketing Data Analysis
 
 ## Project Overview
-This project analyzes telemarketing campaign data to provide insights and build predictive models.
+This project analyzes bank telemarketing campaign data to provide insights and build predictive models 
+on predicting customer term deposit subscriptions. 
+
+## Dataset
+The dataset was imported from Kaggle. The raw dataset contained over 40,000 rows and 21 features 
+including customer demographics such as age, jobs and macroeconomic indicators such as Euribor 3-month rate. 
 
 ## Folder Structure
 - `data/`: Contains the telemarketing campaign dataset.
@@ -17,3 +22,6 @@ This project analyzes telemarketing campaign data to provide insights and build 
 - 4 different model performance metrics on validation data.
 - 1 model performance metrics on test data.
 - Visualizations of important findings.
+
+## Data source
+https://www.kaggle.com/datasets/volodymyrgavrysh/bank-marketing-campaigns-dataset
