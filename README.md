@@ -9,7 +9,7 @@ This project analyzes telemarketing campaign data to provide insights and build 
 - `main.py`: Main script to execute the workflow.
 
 ## How to Run
-2. Run the main script: `python telemarketing.py`
+1. Run the main script with VS code: `python telemarketing.py`
 
 ## Results
 - Data Cleaning and Data Imputation.
