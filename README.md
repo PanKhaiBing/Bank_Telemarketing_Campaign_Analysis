@@ -1,4 +1,4 @@
-# Bank Telemarketing Data Analysis
+# Bank Telemarketing Campaign Analysis
 
 ## Project Overview
 This project analyzes bank telemarketing campaign data to provide insights and build predictive models 
